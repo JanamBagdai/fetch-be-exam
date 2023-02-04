@@ -2,7 +2,7 @@
 
 Please run with the following command:
 
-Javac Main.java/
+Javac Main.java
 
 java main 5000
 
